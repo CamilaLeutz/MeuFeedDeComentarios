@@ -1,0 +1,20 @@
+.header {
+  background-color: rgb(12, 26, 3);
+  display: flex;
+  justify-content: center;
+  padding: 1.25rem 0;
+}
+
+.header img {
+  height: 3rem;
+}
+/* div > img {
+  background-color: rgb(12, 26, 3);
+  color: rgb(12, 26, 3);
+} */
+h1 {
+  font-size: 1.95rem;
+  color: darkgreen;
+  font-weight: 600;
+  margin-left: 1rem;
+}
